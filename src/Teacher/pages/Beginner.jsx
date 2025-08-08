@@ -48,7 +48,7 @@ const Beginner = () => {
         "/teacher/createCourse",
         {
           title: newCourseTitle,
-          description: "Тайлбар оруулна уу",
+          description: "Тайлбар оруулна ууу",
           level: "beginner",
           category: "music",
           price: 0,
